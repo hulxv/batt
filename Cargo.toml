@@ -1,0 +1,8 @@
+[package]
+name = "batt"
+version = "0.0.1-alpha"
+edition = "2021"
+description = "Battery events manager for GNU/Linux systems"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
